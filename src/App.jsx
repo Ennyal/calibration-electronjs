@@ -9,7 +9,7 @@ function App() {
 
   return (
     < >
-      <div className='bg-slate-800'> kdjsgfsdh  </div>
+      <div className=''> kdjsgfsdh  </div>
     </>
   )
 }
